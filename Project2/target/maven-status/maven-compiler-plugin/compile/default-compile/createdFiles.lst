@@ -1,0 +1,17 @@
+com\patelhardware\response\RegistrationResponse.class
+com\patelhardware\servlets\ViewCartItemsServlet.class
+com\patelhardware\servlets\SearchItemsServlet.class
+com\patelhardware\model\Items.class
+com\patelhardware\model\User.class
+com\patelhardware\servlets\LoginServlet.class
+com\mycompany\project2\JakartaRestConfiguration.class
+com\patelhardware\servlets\RegistrationServlet.class
+com\patelhardware\config\ApplicationConfig.class
+com\patelhardware\response\LoginResponse.class
+com\patelhardware\util\DBConnection.class
+com\mycompany\project2\resources\JakartaEE10Resource.class
+com\patelhardware\servlets\MainServlet.class
+com\patelhardware\servlets\ViewAllServlet.class
+com\patelhardware\model\CartItem.class
+com\patelhardware\servlets\BuyItemsServlet.class
+com\patelhardware\servlets\LogoutServlet.class
